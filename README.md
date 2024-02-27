@@ -13,7 +13,7 @@ Hi 👋, I'm Nikita
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=087A9F)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2F74C0)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=E84E31)
-![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=3C4548)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=C7C7C7)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 
 ### Operating System
