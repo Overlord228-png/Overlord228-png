@@ -4,3 +4,6 @@ Hi 👋, I'm Nikita
 
 ## 🔭 I’m looking for a job now
 🌱 I’m currently studying at the Odessa Law Academy at the Faculty of Cybersecurity
+
+Languages and Tools
+![HTML](https://img.shields.io/buildkite/:identifier)
