@@ -15,6 +15,7 @@ Hi 👋, I'm Nikita
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=E84E31)
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=C7C7C7)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=FF6C37)
 
 ### Operating System
 ![Linux Mint](https://img.shields.io/badge/-LinuxMint-090909?style=for-the-badge&logo=LinuxMint&logoColor=66AF3D)
