@@ -21,7 +21,7 @@ Hi 👋, I'm Nikita
 ![windows10](https://img.shields.io/badge/-windows10-090909?style=for-the-badge&logo=windows10&logoColor=0074CF)
 
 ### My Practics in programmer
-![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=EF6464)
+[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=EF6464)](https://www.codewars.com/users/NikitaVavilov)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=28A8E9)](https://t.me/NikitaVav)
