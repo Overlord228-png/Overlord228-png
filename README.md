@@ -22,7 +22,7 @@ Hi 👋, I'm Nikita
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=28A8E9)](https://t.me/NikitaVav)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007AB9)]
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007AB9)
 ![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)
 ![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=4867AA)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=C405E1)
