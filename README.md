@@ -24,6 +24,7 @@ Hi 👋, I'm Nikita
 
 ### My Practics in programmer
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=EF6464)](https://www.codewars.com/users/NikitaVavilov)
+[![Hillel](https://img.shields.io/badge/-Hillel-090909?style=for-the-badge&logo=Hillel&logoColor=4ED401)](https://github.com/Overlord228-png/Overlord228-png/blob/main/assets/27918494_en.png)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=28A8E9)](https://t.me/NikitaVav)
