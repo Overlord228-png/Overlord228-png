@@ -6,4 +6,4 @@ Hi 👋, I'm Nikita
 🌱 I’m currently studying at the Odessa Law Academy at the Faculty of Cybersecurity
 
 Languages and Tools
-![HTML](<img alt="Buildkite" src="https://img.shields.io/buildkite/:identifier">)
+![HTML](<img alt="HTML5" src="https://img.shields.io/buildkite/:identifier">)
