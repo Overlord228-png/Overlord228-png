@@ -5,5 +5,6 @@ Hi 👋, I'm Nikita
 ## 🔭 I’m looking for a job now
 🌱 I’m currently studying at the Odessa Law Academy at the Faculty of Cybersecurity
 
-Languages and Tools
-![HTML](<img alt="HTML5" src="https://img.shields.io/HTML5/:identifier">)
+### Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=C05820)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
