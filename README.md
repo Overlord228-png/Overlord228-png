@@ -20,6 +20,9 @@ Hi 👋, I'm Nikita
 ![Linux Mint](https://img.shields.io/badge/-LinuxMint-090909?style=for-the-badge&logo=LinuxMint&logoColor=66AF3D)
 ![windows10](https://img.shields.io/badge/-windows10-090909?style=for-the-badge&logo=windows10&logoColor=0074CF)
 
+### My Practics in programmer
+![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=EF6464)
+
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=28A8E9)](https://t.me/NikitaVav)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007AB9)
