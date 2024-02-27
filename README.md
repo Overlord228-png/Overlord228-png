@@ -15,4 +15,6 @@ Hi 👋, I'm Nikita
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=E84E31)
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=3C4548)
 
+### Operating System
 ![Linux Mint](https://img.shields.io/badge/-LinuxMint-090909?style=for-the-badge&logo=LinuxMint&logoColor=66AF3D)
+![windows10](https://img.shields.io/badge/-windows10-090909?style=for-the-badge&logo=windows10&logoColor=0074CF)
