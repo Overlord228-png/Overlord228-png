@@ -31,6 +31,6 @@ Front-end Basic [![Main](https://img.shields.io/badge/-Hillel-090909?style=for-t
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=28A8E9)](https://t.me/NikitaVav)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007AB9)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%B2%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2-1081561b4/)
-![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](@Nikita35463156)
 ![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=4867AA)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=C405E1)
