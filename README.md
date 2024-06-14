@@ -17,6 +17,7 @@ Hi 👋, I'm Nikita
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=FF6C37)
 ![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello&logoColor=0C5DD5)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind&logoColor=36B7F0)
 
 ### Operating System
 ![Linux Mint](https://img.shields.io/badge/-LinuxMint-090909?style=for-the-badge&logo=LinuxMint&logoColor=66AF3D)
