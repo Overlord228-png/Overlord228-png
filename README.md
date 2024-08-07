@@ -2,8 +2,9 @@
 
 Hi 👋, I'm Nikita
 
-## 🔭 I’m looking for a job now
+## 🔭 I’m search for a job now
 ## 🌱 I’m currently studying at the Odessa Law Academy at the Faculty of Cybersecurity
+## 🌱 I have already completed my bachelor's degree and received a diploma in cybersecurity.
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=C05820)
